@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://github.com/YildirimRoket/.github/profile/blob/main/LOGO.png?raw=true"  />
+  <img height="150" src="https://i.hizliresim.com/eqchnmr.png"  />
 </div>
 
 ###
